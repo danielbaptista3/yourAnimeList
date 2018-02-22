@@ -1,13 +1,13 @@
 class AnimesController < ApplicationController
   before_action :set_anime, only: [:show, :edit, :update, :destroy]
 
-  # GET /animes
+  
   # GET /animes.json
   def index
     @animes = Anime.all
   end
 
-  # GET /animes/1
+
   # GET /animes/1.json
   def show
   end
@@ -21,7 +21,7 @@ class AnimesController < ApplicationController
   def edit
   end
 
-  # POST /animes
+
   # POST /animes.json
   def create
     @anime = Anime.new(anime_params)
