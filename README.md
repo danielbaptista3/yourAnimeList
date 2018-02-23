@@ -1,24 +1,25 @@
-# README
+# README yourAnimeList Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+yourAnimeList Project is a school project of 3 persons in Ruby language.
+The goal of this project is to learn Ruby.
 
-Things you may want to cover:
+yourAnimeList should be similar to MyanimeList, as told it's a learning school project, we want to understand how work relation and the link between database and website.  
+ 
+Technicals specifications:
 
 * Ruby version
 
-* System dependencies
+* System dependencies - WORKING ON IT
 
-* Configuration
+* Configuration - WORKING ON IT
 
-* Database creation
+* Database creation - WORKING ON IT
 
-* Database initialization
+* Database initialization - WORKING ON IT
 
-* How to run the test suite
+* Test suite - WORKING ON IT
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.) - WORKING ON IT
 
-* Deployment instructions
+* Deployment instructions - WORKING ON IT
 
-* ...
